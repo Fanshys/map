@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "downlevelIteration": true,
+    "lib": ["es6", "dom", "es2017"],
+    "module": "CommonJS",
+    "rootDir": "./src",
+    "strict": true,
+  }
+}
